@@ -10,5 +10,10 @@
 ### Webservices
  To get a List of objects in REST CLient</br>
  List<Product> products = request.get(new GenericType<List<Product>>() {});
+
+## 2023
+
+###
+[All Things Distributed](https://www.allthingsdistributed.com/)
   
   
